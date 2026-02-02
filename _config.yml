@@ -1,0 +1,30 @@
+title: "AI in Finance"
+description: "NYU Stern — Spring 2026"
+author: "Arpit Gupta"
+url: "https://github.com/arpitrage"
+baseurl: "/ai-in-finance"
+
+# Theme (Just the Docs is clean and well-maintained)
+remote_theme: just-the-docs/just-the-docs
+
+# Course metadata
+course_name: "AI in Finance"
+course_semester: "Spring 2026"
+course_description: >
+  This course equips finance professionals and managers with the tools
+  needed to effectively use generative AI in financial services,
+  investment management, and financial technology.
+
+# Footer with CC license
+footer_content: >
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0"
+  src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/>
+  This work is licensed under a
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
